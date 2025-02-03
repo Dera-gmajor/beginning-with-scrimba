@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3e2f84;
+    border: 5px solid black;
+    max-width: 80%;
+    margin: auto;
+    width: 60%;
+    padding: 50px;
+    font-family: Verdana;
+    color: white;
+    border-radius: 1cm;
+}
+
+span {
+    background: black;
+    padding: 15px;
+    display: block;
+    margin: 1mm;
+    text-align: justify;
+    font-weight: bold;
+    font-family: monospace, Cursed Timer ULiL;
+    font-size: xx-large;
+    font-display: block;
+    color: #F94F6D;
+}
+
+button {
+    background: transparent;
+    color: #9AABD8;
+    font-family: monospace;
+    justify-content: space-around;
+    border: 1px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+}
